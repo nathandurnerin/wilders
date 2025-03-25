@@ -1,0 +1,25 @@
+{
+	"name": "wilders",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nathandurnerin/wilders.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/nathandurnerin/wilders/issues"
+	},
+	"homepage": "https://github.com/nathandurnerin/wilders#readme",
+	"description": "",
+	"dependencies": {
+		"chalk": "^5.4.1"
+	}
+}
